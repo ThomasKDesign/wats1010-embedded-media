@@ -78,17 +78,18 @@ p {
 }
 
 div.img {
-    margin-left: 220px;
+    
     border: 1px solid #ccc;
     float: left;
-    width: 350px;
+    
+   
 }	
 
 div.img:hover {
     border: 2px solid #777;
 }
 
-div.img img {
+div.img.img {
     width: 100%;
     height: auto;
 }
@@ -97,7 +98,6 @@ div.desc {
     padding: 18px;
     text-align: center;
 }
-
 
 #about {
       
